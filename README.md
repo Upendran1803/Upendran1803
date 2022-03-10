@@ -1,0 +1,16 @@
+### Hi there 👋
+Its Applied statistics project
+<!--
+**Upendran1803/Upendran1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ... AIML
+- 👯 I’m looking to collaborate on ... ML/AI/Robotics
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...reachupendran@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
